@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RightMove</string>
+    <string name="average_property_price">Average Property Price</string>
+    <string name="price_format" formatted="false">£%,.2f</string>
+</resources>
